@@ -1,8 +1,8 @@
 # WB_CityResilienceProgram
 
-Repo for World Bank's CRP analysis for member cities
+## Repo for World Bank's CRP analysis for member cities
 
-Notebooks:
+## Notebooks:
 
 #### CRP_Stats.ipynb : Notebook has code for generating basic and extended stats for CRP cities. There is also a function that plots the graph 
 
